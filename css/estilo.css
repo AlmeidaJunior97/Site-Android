@@ -41,6 +41,10 @@ h2 {
 	padding: 10px 0px 20px 0px;
 }
 
+picture {
+		max-width: 380px;
+}
+
 header {
 
 	background-image: linear-gradient(to bottom, #034d8d, var(--cor-1));
