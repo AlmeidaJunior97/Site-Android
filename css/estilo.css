@@ -44,7 +44,7 @@ h2 {
 }
 
 picture {
-		max-width: 380px;
+		max-width: 300px;
 }
 
 header {
@@ -103,7 +103,7 @@ main {
 	color: black;
 	width: 100%;
 	max-width: 900px;
-	min-width: 250px;
+	min-width: 300px;
 }
 
 main p {
