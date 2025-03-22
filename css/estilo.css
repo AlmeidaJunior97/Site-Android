@@ -29,7 +29,7 @@ body {
 	background-color: var(--cor-1);
 	font-family: 'Roboto', sans-serif;
 	color: white;
-	overflow-x: hidden;
+	overflow-x: hidden; 
 }
 
 h1 {
@@ -103,7 +103,7 @@ main {
 	color: black;
 	width: 100%;
 	max-width: 900px;
-	min-width: 300px;
+	min-width: 250px;
 }
 
 main p {
