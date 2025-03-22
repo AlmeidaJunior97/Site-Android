@@ -48,11 +48,12 @@ picture {
 }
 
 header {
-
-	background-image: linear-gradient(to bottom, #034d8d, var(--cor-1));
-	text-align: center;
-	padding: 10px;
-	min-height: 100px;
+    background-image: linear-gradient(to bottom, #034d8d, var(--cor-1));
+    text-align: center;
+    padding: 10px;
+    min-height: 100px;
+    width: 100vw; /* Faz com que ocupe 100% da largura da tela */
+    max-width: 100%; /* Garante que não ultrapasse o limite */
 }
 
 header>h1 {
