@@ -97,13 +97,15 @@ nav>a:hover {
 }
 
 main {
+	margin: 0 auto;
 	text-align: center;
 	padding: 10px;
 	background-color: beige;
-	color: black;
+	color: rgb(248, 190, 190);
 	width: 100%;
 	max-width: 950px;
-	min-width: 350px;
+	min-width: 450px;
+	
 }
 
 main p {
